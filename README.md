@@ -9,12 +9,14 @@ I'm a full stack software engineer with an affinity for problem solving.
 ## ToolSet
 
 ### Languages: 
-<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/ruby-programming-language.png" alt="ruby-programming-language"/>
+<p float="left">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/ruby-programming-language.png" alt="ruby-programming-language"/>
+</p>
 
 ### Frameworks and Libraries: 
 
