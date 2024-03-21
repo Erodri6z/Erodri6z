@@ -1,7 +1,10 @@
 
 ## About Me
+I'm a full stack software engineer with an affinity for problem solving.
 
 ## GitHub Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=erodri6z&theme=shadow-red&border_radius=" width="400">
 
 ## ToolSet
 
